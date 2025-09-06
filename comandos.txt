@@ -1,0 +1,41 @@
+Para crear un entorno virtual siguiente codigo
+python3 -m venv venv
+
+Para activar el entorno en linux
+source venv/bin/activate
+
+Para instalar los siguientes frameworks
+pip install flask flask_sqlalchemy flask_cors
+pip install oracledb
+pip install python-dotenv
+npm install axios
+
+Para crear frontend
+npm install -g npm@11.5.2
+npm create vite@latest frontend --template react
+cd my-project
+v4.1
+
+PARA EJECUTAR EL FROENTEND
+ npm run dev
+
+# revisar contenedores activos
+docker ps
+# revisar contenedores activos e inactivos
+docker ps -a
+EJECUTAR docker
+docker start oracle-docker
+cd backend 
+
+python app.py
+cd ..
+cd frontend
+ejecutar FROENTEND
+npm start
+
+crtl + c = detener ejecuciòn de backend y frontend
+
+bash
+git remote add origin <https://github.com/JuanaArenas/Fichas.git>
+
+git push -u origin main

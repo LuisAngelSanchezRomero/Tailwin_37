@@ -1,4 +1,4 @@
-#!/workspaces/Tailwin_37/backend/venv/bin/python3
+#!/workspaces/Fichas/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
